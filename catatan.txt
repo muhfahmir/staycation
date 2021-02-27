@@ -1,0 +1,36 @@
+//install
+react-router-dom = untuk navigasi di apk
+node-sass = untuk sass
+react-reveal = untuk melakukan animasi seperti fade
+react-date-range = untuk tanggal lebih 
+date-fns = untuk memenuhi kebutuhan react-date-range
+react-html-parser = untuk mengubah data dari json menjadi html 
+
+//integrasi api store
+redux = untuk komunikasi antar komponen
+redux,react-redux,redux-thunk = untuk strore di redux,menjalani time travel sesuai dengan janji nya. debugging apk
+redux devtools = untuk mentrack state di redux
+axios = untuk mengakses api
+mapStateToProps = untuk ngambil state di dalam redux
+withRouter = untuk membawa history router dari react creator dom di apk
+
+//library
+fireEvent = untuk membantu melancarkan dalam onClick (menstimulus)
+
+//pemahaman
+elements = component react -> smart component yang sering dipake . rfc
+npm test = melakukan testing 
+parts = contoh header.js, 1 block intinya . rfc
+pages = rcc
+hooks = mengijinkan kita untuk menggunakan state dalam functional komponen
+regex tester = untuk belajar regex javascript
+//store
+jika direducers ada checkout.js maka seharusnya di actions ada checkout.js juga
+
+
+//method
+componentDidMount = ketika komponen sudah bener bener ke load kita akan lakuin tambahin (life cycle)
+componentDidUpdate
+
+//deploy
+https://staycation-bwamern.netlify.app/
